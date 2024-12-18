@@ -112,7 +112,7 @@ structured_array = np.array([(1, 'Alice', 25), (2, 'Bob', 30)],
 ```
 ---
 
-## Specialized Topics
+## Performance Optimization
 
 ### Using Numba
 ```python
